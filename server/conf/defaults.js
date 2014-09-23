@@ -125,9 +125,9 @@ module.exports = {
 //    }
 
     // example Persona user
-//    'foo@bar.com' : {
-//      roles: ['entry']
-//    }
+    'jonathan.arbaugh@jhuapl.edu' : {
+      roles: ['admin']
+    }
   },
 
   persona: {
